@@ -1,0 +1,20 @@
+{
+  "black_music": {
+    "subtitle": "progamer.black_music_disc",
+    "sounds": [
+      {
+        "name": "progamer:black_music",
+        "stream": true
+      }
+    ]
+  },
+  "hasse_music": {
+    "subtitle": "progamer.hasse_music_disc",
+    "sounds": [
+      {
+        "name": "progamer:hasse_music",
+        "stream": true
+      }
+    ]
+  }
+}

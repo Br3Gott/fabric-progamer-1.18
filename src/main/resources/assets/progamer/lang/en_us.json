@@ -1,3 +1,7 @@
 {
-  "item.progamer.hasse": "Shrine of hasse"
+  "item.progamer.hasse": "Shrine of hasse",
+  "item.progamer.hasse.desc": "Hasse - the man - the myth - the legend",
+  "item.progamer.black_diamond": "Black Diamond",
+  "item.progamer.black_music_disc": "Black Music Disc",
+  "item.progamer.black_music_disc.desc": "Forbidden Music"
 }
